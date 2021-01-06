@@ -3,7 +3,7 @@ from time import sleep
 import csv
 
 
-token = "41bc235ffbf3184851523161d22163143d8e78e4eb9051f185a4be4274b56552716cf1f4208e03f9282b6"
+token = "Тут был мой токен, но его нельзя показывать, поэтому введите свой"
 session = vk.Session(access_token=token)
 vk_api = vk.API(session)
 apivers = 5.92
